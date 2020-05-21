@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import <LocalAuthentication/LocalAuthentication.h>
 NS_ASSUME_NONNULL_BEGIN
 typedef enum biometryTyle{
