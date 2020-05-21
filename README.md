@@ -1,5 +1,5 @@
-=
-IOS 指纹识别以及面容识别 
+
+*IOS 指纹识别以及面容识别
 
 typedef enum biometryTyle{
 biometryTyleNone,//不支持生物识别 
